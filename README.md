@@ -64,6 +64,8 @@ But created with love.
 ## Author
 
 - Frontend Mentor - [@Darionas](https://www.frontendmentor.io/profile/Darionas)
+- Frontend Mentor - [@Abdoulaye](https://www.frontendmentor.io/profile/Abdoulaye33)
+- Frontend Mentor - [@Valia](https://www.frontendmentor.io/profile/ValiaCantillo)
 
 ## Acknowledgments
 
